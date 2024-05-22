@@ -8,19 +8,20 @@ This React Native weather app provides real-time weather information based on th
 
 ```bash
 git clone https://github.com/themrsami/React-Native-Whether-App.git
+```
 
 
 2. Install dependencies:
 
 ```bash
 npm install
-
+```
 
 3. Start the app:
 
 ```bash
 npm start
-
+```
 
 ## Usage
 
