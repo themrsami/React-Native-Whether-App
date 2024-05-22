@@ -5,7 +5,7 @@ import { StatusBar } from 'expo-status-bar';
 
 export default function App() {
   const [weatherData, setData] = useState(null);
-  const API_KEY = 'c751dbe5cde04468b6a50351241505';
+  const API_KEY = '<your new API key>';
 
 
   useEffect(() => {
